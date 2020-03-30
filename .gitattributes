@@ -1,0 +1,2 @@
+pymugenv/* linguist-documentation
+docs/*.py linguist-documentation=false
